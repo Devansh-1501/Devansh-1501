@@ -1,6 +1,6 @@
 👋 Hi, I’m **Devansh-1501**!
 
-Welcome to my GitHub! I'm passionate about **Cloud Computing**, **DevOps**, **Site Reliability Engineer** and **Data & Cloud Technology** in General.
+Welcome to my GitHub! I'm passionate about **Cloud Computing**, **DevOps**, **Site Reliability Engineer** and **Data Science** in General.
 
 ## 🚀 About Me
 
